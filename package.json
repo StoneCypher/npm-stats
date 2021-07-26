@@ -1,7 +1,7 @@
 {
-  "name": "npm-stats",
-  "version": "1.2.0",
-  "description": "Convenience module for getting back data from an NPM registry",
+  "name": "npm-stats-2",
+  "version": "0.1.0",
+  "description": "Maintenance modernization of npm-stats: convenience module for getting back data from an NPM registry",
   "main": "index.js",
   "dependencies": {
     "JSONStream": "~0.6.2",
